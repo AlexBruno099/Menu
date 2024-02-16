@@ -1,0 +1,11 @@
+C:\Users\SGBr\Documents\Des\TESSTE\bin\Debug\TESSTE.exe.config
+C:\Users\SGBr\Documents\Des\TESSTE\bin\Debug\TESSTE.exe
+C:\Users\SGBr\Documents\Des\TESSTE\bin\Debug\TESSTE.pdb
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.csproj.AssemblyReference.cache
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.Cliente.resources
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.Properties.Resources.resources
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.csproj.GenerateResource.cache
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.csproj.CoreCompileInputs.cache
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.exe
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.pdb
+C:\Users\SGBr\Documents\Des\TESSTE\obj\Debug\TESSTE.Menu.resources
